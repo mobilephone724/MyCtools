@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "queue": "cpp",
+        "random": "cpp",
+        "iostream": "cpp",
+        "func.h": "c",
+        "unity.h": "c",
+        "setjmp.h": "c",
+        "cstdio": "c"
+    }
+}
